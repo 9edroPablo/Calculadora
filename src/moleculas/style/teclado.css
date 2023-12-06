@@ -1,0 +1,12 @@
+.contenedor{
+    margin-top: 60px;
+    align-content: center;
+}
+.teclado{
+    display: flex;  
+}
+.alinear{
+    margin-top: 110px;
+    margin-right: 0%;
+    margin-left: 0%;
+}

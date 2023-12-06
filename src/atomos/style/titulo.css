@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@300&family=Major+Mono+Display&family=Roboto:ital,wght@1,700&display=swap');
+
+.calculadora{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+    text-align: center;
+    color: #2136F6;
+
+}
+

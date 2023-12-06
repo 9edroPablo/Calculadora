@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+
+.boton{
+    width: 80px;
+  height: 80px;
+  border-radius: 100%;
+
+  border: 3px solid #2136F6;
+background: #CAC9CB;
+color: #2136F6;
+
+font-family: Inter;
+font-size: 42px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.boton:hover{
+    
+    background: #2136F6;
+    color: #CAC9CB;
+}
+
+div{
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
